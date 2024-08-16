@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">customer_id</Data></Cell>
+			<Cell><Data ss:Type="String">first_name</Data></Cell>
+			<Cell><Data ss:Type="String">last_name</Data></Cell>
+			<Cell><Data ss:Type="String">artist_name</Data></Cell>
+			<Cell><Data ss:Type="String">spent</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="String">Hugh</Data></Cell>
+			<Cell><Data ss:Type="String">O'Reilly</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">27.719999999999985</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="String">Niklas</Data></Cell>
+			<Cell><Data ss:Type="String">Schröder</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">18.81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">François</Data></Cell>
+			<Cell><Data ss:Type="String">Tremblay</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">17.82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="String">João</Data></Cell>
+			<Cell><Data ss:Type="String">Fernandes</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">16.830000000000002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="String">Marc</Data></Cell>
+			<Cell><Data ss:Type="String">Dubois</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">11.88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="String">Phil</Data></Cell>
+			<Cell><Data ss:Type="String">Hughes</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">11.88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="String">Ellie</Data></Cell>
+			<Cell><Data ss:Type="String">Sullivan</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">10.89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="String">Lucas</Data></Cell>
+			<Cell><Data ss:Type="String">Mancini</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">10.89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">František</Data></Cell>
+			<Cell><Data ss:Type="String">Wichterlová</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">3.96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Dan</Data></Cell>
+			<Cell><Data ss:Type="String">Miller</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">3.96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="String">Steve</Data></Cell>
+			<Cell><Data ss:Type="String">Murray</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">2.9699999999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="String">Martha</Data></Cell>
+			<Cell><Data ss:Type="String">Silk</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">2.9699999999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">John</Data></Cell>
+			<Cell><Data ss:Type="String">Gordon</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">2.9699999999999998</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Luís</Data></Cell>
+			<Cell><Data ss:Type="String">Gonçalves</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Alexandre</Data></Cell>
+			<Cell><Data ss:Type="String">Rocha</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">Frank</Data></Cell>
+			<Cell><Data ss:Type="String">Ralston</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Frank</Data></Cell>
+			<Cell><Data ss:Type="String">Harris</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="String">Emma</Data></Cell>
+			<Cell><Data ss:Type="String">Jones</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="String">Johannes</Data></Cell>
+			<Cell><Data ss:Type="String">Van der Berg</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="String">Madalena</Data></Cell>
+			<Cell><Data ss:Type="String">Sampaio</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="String">Stanisław</Data></Cell>
+			<Cell><Data ss:Type="String">Wójcik</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="String">Luis</Data></Cell>
+			<Cell><Data ss:Type="String">Rojas</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="String">Julia</Data></Cell>
+			<Cell><Data ss:Type="String">Barnett</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Daan</Data></Cell>
+			<Cell><Data ss:Type="String">Peeters</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="String">Hannah</Data></Cell>
+			<Cell><Data ss:Type="String">Schneider</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">Edward</Data></Cell>
+			<Cell><Data ss:Type="String">Francis</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Jack</Data></Cell>
+			<Cell><Data ss:Type="String">Smith</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="String">Wyatt</Data></Cell>
+			<Cell><Data ss:Type="String">Girard</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Jennifer</Data></Cell>
+			<Cell><Data ss:Type="String">Peterson</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="String">Terhi</Data></Cell>
+			<Cell><Data ss:Type="String">Hämäläinen</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="String">Patrick</Data></Cell>
+			<Cell><Data ss:Type="String">Gray</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">Heather</Data></Cell>
+			<Cell><Data ss:Type="String">Leacock</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="String">Ladislav</Data></Cell>
+			<Cell><Data ss:Type="String">Kovács</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="String">Rishabh</Data></Cell>
+			<Cell><Data ss:Type="String">Mishra</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Fernanda</Data></Cell>
+			<Cell><Data ss:Type="String">Ramos</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="String">Manoj</Data></Cell>
+			<Cell><Data ss:Type="String">Pareek</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="String">Mark</Data></Cell>
+			<Cell><Data ss:Type="String">Taylor</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Helena</Data></Cell>
+			<Cell><Data ss:Type="String">Holý</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">Richard</Data></Cell>
+			<Cell><Data ss:Type="String">Cunningham</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="String">Isabelle</Data></Cell>
+			<Cell><Data ss:Type="String">Mercier</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Tim</Data></Cell>
+			<Cell><Data ss:Type="String">Goyer</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="String">Enrique</Data></Cell>
+			<Cell><Data ss:Type="String">Muñoz</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="String">Camille</Data></Cell>
+			<Cell><Data ss:Type="String">Bernard</Data></Cell>
+			<Cell><Data ss:Type="String">Queen</Data></Cell>
+			<Cell><Data ss:Type="Number">0.99</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

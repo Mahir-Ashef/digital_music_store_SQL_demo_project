@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">c</Data></Cell>
+			<Cell><Data ss:Type="String">g</Data></Cell>
+			<Cell><Data ss:Type="String">n</Data></Cell>
+			<Cell><Data ss:Type="String">rn</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="String">Alternative & Punk</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Australia</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">34</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">40</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">26</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">205</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">333</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chile</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">61</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">143</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">24</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">46</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">211</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">194</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hungary</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">44</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">102</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">72</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">35</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">33</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">40</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">40</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">108</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">46</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">60</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">166</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="String">Rock</Data></Cell>
+			<Cell><Data ss:Type="String">561</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

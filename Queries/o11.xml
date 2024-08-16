@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">c</Data></Cell>
+			<Cell><Data ss:Type="String">n1</Data></Cell>
+			<Cell><Data ss:Type="String">n2</Data></Cell>
+			<Cell><Data ss:Type="String">s</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="String">Diego</Data></Cell>
+			<Cell><Data ss:Type="String">Gutiérrez</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Australia</Data></Cell>
+			<Cell><Data ss:Type="String">Mark</Data></Cell>
+			<Cell><Data ss:Type="String">Taylor</Data></Cell>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="String">Astrid</Data></Cell>
+			<Cell><Data ss:Type="String">Gruber</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="String">Daan</Data></Cell>
+			<Cell><Data ss:Type="String">Peeters</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="String">Eduardo</Data></Cell>
+			<Cell><Data ss:Type="String">Martins</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="String">Mark</Data></Cell>
+			<Cell><Data ss:Type="String">Philips</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chile</Data></Cell>
+			<Cell><Data ss:Type="String">Luis</Data></Cell>
+			<Cell><Data ss:Type="String">Rojas</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+			<Cell><Data ss:Type="String">Helena</Data></Cell>
+			<Cell><Data ss:Type="String">Holý</Data></Cell>
+			<Cell><Data ss:Type="Number">130</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="String">Kara</Data></Cell>
+			<Cell><Data ss:Type="String">Nielsen</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="String">Terhi</Data></Cell>
+			<Cell><Data ss:Type="String">Hämäläinen</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="String">Marc</Data></Cell>
+			<Cell><Data ss:Type="String">Dubois</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="String">Niklas</Data></Cell>
+			<Cell><Data ss:Type="String">Schröder</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hungary</Data></Cell>
+			<Cell><Data ss:Type="String">Ladislav</Data></Cell>
+			<Cell><Data ss:Type="String">Kovács</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="String">Rishabh</Data></Cell>
+			<Cell><Data ss:Type="String">Mishra</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="String">Hugh</Data></Cell>
+			<Cell><Data ss:Type="String">O'Reilly</Data></Cell>
+			<Cell><Data ss:Type="Number">116</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="String">Lucas</Data></Cell>
+			<Cell><Data ss:Type="String">Mancini</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="String">Johannes</Data></Cell>
+			<Cell><Data ss:Type="String">Van der Berg</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="String">Bjørn</Data></Cell>
+			<Cell><Data ss:Type="String">Hansen</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="String">Stanisław</Data></Cell>
+			<Cell><Data ss:Type="String">Wójcik</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="String">Madalena</Data></Cell>
+			<Cell><Data ss:Type="String">Sampaio</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="String">Enrique</Data></Cell>
+			<Cell><Data ss:Type="String">Muñoz</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="String">Joakim</Data></Cell>
+			<Cell><Data ss:Type="String">Johansson</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="String">Emma</Data></Cell>
+			<Cell><Data ss:Type="String">Jones</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="String">Tim</Data></Cell>
+			<Cell><Data ss:Type="String">Goyer</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

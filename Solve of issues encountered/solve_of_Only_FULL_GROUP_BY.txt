@@ -1,0 +1,5 @@
+SHOW VARIABLES LIKE 'sql_mode';
+
+SET sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
+
+SHOW VARIABLES LIKE 'sql_mode';
